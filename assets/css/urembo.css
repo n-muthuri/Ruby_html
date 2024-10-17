@@ -1,0 +1,13 @@
+h2{
+    color: #ff00f2;
+    text-align: center;
+}
+th,td{
+    border: 2px solid cornflowerblue;
+    padding: 10px;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+    font-family: Arial,sans-serif;
+}
